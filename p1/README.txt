@@ -6,6 +6,8 @@ The objective of this assignment is to explore various Supervised Learning algor
     - Neural Networks
     - Support Vector Machine
 
+Github link: https://github.gatech.edu/zsang31/cs7641
+
 ## Dataset Information
     - Apple Quality (https://www.kaggle.com/datasets/nelgiriyewithana/apple-quality)
     - Breast Cancer Wisconsin Diagnostic (https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic)
