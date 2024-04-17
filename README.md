@@ -25,14 +25,14 @@ The objective of this repo is to explore various Machine Learning algorithms and
 
 ## Prerequisites
 The following library are required:
-    - numpy
-    - pandas
-    - seaborn
-    - matplotlib
-    - scikit-learn
-    - plotly
-    - bettermdptools
-    - mlrose-hiive
+- numpy
+- pandas
+- seaborn
+- matplotlib
+- scikit-learn
+- plotly
+- bettermdptools
+- mlrose-hiive
 
 And Jupyter Notebook is required.
 
